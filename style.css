@@ -1,27 +1,35 @@
 h1
 {
-  color:blue;
+  color:white;
+}
+p
+{ font-variant-east-asian: initial;
+  line-height:70px;  
 }
 h2
 {
   color:red;
-text-align: center;
+  text-align: center;
+  list-style-type: lower-alpha;
 }
 li
 {
-  color: aqua;
+  color: darkblue;
   text-align: initial;
+  list-style-image: initial;
 }
 ol
 {
-  color: yellow;
+  color: white;
   text-align: right;
 }
-p
+ul
 {
+  color: whitesmoke;  
   font-style:italic;
   line-height:70px
 }
-body {
-  background-color: silver ;
+body 
+{
+   background-color: black; 
 }
