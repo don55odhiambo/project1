@@ -1,0 +1,27 @@
+h1
+{
+  color:blue;
+}
+h2
+{
+  color:red;
+text-align: center;
+}
+li
+{
+  color: aqua;
+  text-align: initial;
+}
+ol
+{
+  color: yellow;
+  text-align: right;
+}
+p
+{
+  font-style:italic;
+  line-height:70px
+}
+body {
+  background-color: silver ;
+}
