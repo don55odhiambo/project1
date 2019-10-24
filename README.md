@@ -1,7 +1,7 @@
 # PORTFOLIO
 Simple website about me
 ## Author: Odhiambo
-Link: https://github.com/don55odhiambo/project1
+Link: https://github.com/don55odhiambo/don55odhiambo.github.io
 ## Description
 this is a website that i have created when joining moringa school to just briefly explain more about myself the technologies i've used and also the stylings. thank you.
 ## Technologies Used
