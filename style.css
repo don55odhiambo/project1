@@ -6,11 +6,12 @@ h1
 p
 {
   font-variant-east-asian: initial;
-  color: white;
+  color: blue;
 }
 h2
 {
   color: black;
+  text-align: left;
   text-align: left;
 }
 ol
