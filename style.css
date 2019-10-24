@@ -31,11 +31,11 @@ body
 }
 h4
 {
-  color: green;
+  color: red;
   font-style: unset;
 }
 ol
 {
   text-align:center;
-  font-style:initial;
+  font-style:italic;
 }
