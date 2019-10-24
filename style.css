@@ -7,23 +7,33 @@ p
 {
   font-variant-east-asian: initial;
   color:white;
+  
 }
 h2
 {
   color: black;
-  text-align: left;
-  text-align: initial;
+  text-align: center;
 }
 ol
 {
   color: orange;  
+  text-align: center;
+  display: table;
+  margin: 0 auto;
 }
 h3
 {
   color: black;
   font-style: oblique;
-  text-align-last: left;
+  text-align:center;
 }
+ul
+{
+  /* text-align: center; */
+  display: table;
+  margin: 0 auto;
+}
+
 body
 {
   background-color: red;
@@ -34,9 +44,20 @@ h4
 {
   color: green;
   font-style: italic;
+  text-align: center;
 }
 ol
 {
   font-style:italic;
 }
 
+.mytext {
+  text-align: center;
+}
+.aboutme img {
+  background-position: center; 
+  
+}
+.aboutme {
+  text-align: center;
+}
