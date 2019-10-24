@@ -1,49 +1,41 @@
 h1
 {
-  color:black;
+  color: black;
+  font-style: initial;
 }
 p
-{ font-variant-east-asian: initial;
-  color: black;  
+{
+  font-variant-east-asian: initial;
+  color: white;
 }
 h2
 {
-  color:black;
-  text-align: left;
-  list-style-type: lower-alpha;
-}
-li
-{
   color: black;
-  text-align: initial;
-  
+  text-align: left;
+  list-style-type: square;
 }
 ol
 {
-  color: black;
-  text-align-last: left;
-}
-ul
-{
-  color: black;  
-  font-style:italic;
+  color: orange;
+  text-align: initial;  
 }
 h3
 {
   color: black;
   font-style: oblique;
-}   
-ul
-{
-   color: black;
-   font-style:inherit ;  
 }
-body 
+body
 {
-   background-color: white; 
+  background-color: red;
+  enable-background: inherit; 
 }
 h4
 {
-    color: black;
-    font-style: unset;
+  color: green;
+  font-style: unset;
+}
+ol
+{
+  text-align;
+  font-style:italic;
 }
