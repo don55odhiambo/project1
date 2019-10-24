@@ -1,22 +1,22 @@
 h1
 {
-  color: white;
+  color: blue;
   font-style: initial;
 }
 p
 {
   font-variant-east-asian: initial;
-  color: blue;
+  color:white;
 }
 h2
 {
   color: black;
   text-align: left;
+  text-align: initial;
 }
 ol
 {
-  color: orange;
-  text-align: initial;  
+  color: orange;  
 }
 h3
 {
@@ -28,6 +28,7 @@ body
 {
   background-color: red;
   enable-background: inherit; 
+  
 }
 h4
 {
@@ -36,6 +37,6 @@ h4
 }
 ol
 {
-  text-align:center;
   font-style:italic;
 }
+
